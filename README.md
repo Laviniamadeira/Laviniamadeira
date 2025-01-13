@@ -1,5 +1,7 @@
 <H1>Oiii eu sou a Lavínia Madeira</H1>
-<p>Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e em constante aprendizado. Com 18 anos, já tenho experiência com Python, HTML e CSS, e estou sempre buscando novas oportunidades para aprimorar minhas habilidades.</p>
+<p>Meu primeiro "Hello World" foi em HTML, durante o curso de Criação de Sites e Plataformas Digitais oferecido pela ETEC. Desde então, minha paixão pela tecnologia só cresceu, e hoje estou desenvolvendo habilidades em Python, Power BI, Excel e análise de dados.
+
+Adoro mergulhar em novos desafios e explorar ferramentas que me ajudem a criar soluções criativas e funcionais. Nos momentos livres, gosto de ler, assistir séries e me dedicar a atividades que me inspirem a ver o mundo de maneiras diferentes. 🚀</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
