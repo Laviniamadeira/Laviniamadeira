@@ -16,3 +16,6 @@ Adoro mergulhar em novos desafios e explorar ferramentas que me ajudem a criar s
   <a href="www.linkedin.com/in/lavínia-madeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<img src="https://raw.githubusercontent.com/Laviniamadeira/Laviniamadeira/output/snake.svg" alt="Snake animation" />
+
+###
