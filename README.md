@@ -36,10 +36,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laviniamadeira&show_icons=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laviniamadeira&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Laviniamadeira&show_icons=true&theme=default" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laviniamadeira&layout=compact" />
   <img src="https://raw.githubusercontent.com/Laviniamadeira/Laviniamadeira/output/snake.svg" alt="Snake animation" />
 
 </div>
-
-
